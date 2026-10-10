@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="112" fill="#d97706"/>
+  <circle cx="256" cy="256" r="168" fill="#fef3c7" stroke="#92400e" stroke-width="16"/>
+  <path d="M128 256 A128 128 0 0 0 384 256 Z" fill="#f59e0b" stroke="#78350f" stroke-width="12"/>
+  <circle cx="204" cy="212" r="14" fill="#78350f"/>
+  <circle cx="256" cy="196" r="14" fill="#78350f"/>
+  <circle cx="308" cy="212" r="14" fill="#78350f"/>
+  <text x="256" y="388" font-family="sans-serif" font-size="48" font-weight="bold" text-anchor="middle" fill="#78350f">TB</text>
+</svg>
