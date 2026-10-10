@@ -1,0 +1,6 @@
+{
+  "name": "Kasir Terang Bulan",
+  "description": "Aplikasi kasir POS, manajemen stok, barcode scanner, Google Sheets sync, dan thermal printer Bluetooth untuk Warung Senja Terang Bulan.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
